@@ -1,8 +1,4 @@
-Projeto de estudo em Python simulando um sistema bancário simples com:
-✅ Depósito  
-✅ Saque com limite diário  
-✅ Controle de saldo  
-✅ Extrato de movimentações
+Projeto de estudo em Python simulando um sistema bancário simples
 Estruturas usadas:
   - while
   - if / elif / else
